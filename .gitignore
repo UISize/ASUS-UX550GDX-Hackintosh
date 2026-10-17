@@ -1,0 +1,20 @@
+# Personal configurations and diagnostics
+**/config.plist
+identity*.json
+private/
+*.spx
+*.bak
+*.log
+*.clixml
+opencore-*.txt
+.env
+.env.*
+
+# Generated files and local archives
+build/
+dist/
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+Thumbs.db
